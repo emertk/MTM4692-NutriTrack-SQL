@@ -132,7 +132,7 @@ Every exercise type has a MET value. Calories burned per set = `MET × user_weig
 
 ---
 
-## 🚀 Quick Start
+## Quick Start for Simplicity
 
 ```bash
 # 1. Clone
