@@ -4,7 +4,9 @@
 > Department of Mathematical Engineering
 > 
 > 20058611 Ender Mert Kutbay
+>
 > 22058601 Berkay Mutlu
+>
 > 23052612 Kenan Pehlivan
 
 ---
