@@ -2,6 +2,8 @@
 
 > **MTM4692 Applied SQL** · Spring 2026 · Yıldız Technical University  
 > Department of Mathematical Engineering
+>
+> Video Presentation Link: https://drive.google.com/drive/u/0/folders/13sgqMESkHx5wbFkqgki37TCTQAno808w
 
 ---
 
